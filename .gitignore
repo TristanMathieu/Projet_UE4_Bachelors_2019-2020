@@ -1,0 +1,11 @@
+#gitignore UE4
+
+
+*.vs
+/Projet_CPP/.vs
+/Projet_CPP/Binaries
+/Projet_CPP/Content/StarterContent
+/Projet_CPP/Intermediate
+/Projet_CPP/Saved
+
+*.sln
